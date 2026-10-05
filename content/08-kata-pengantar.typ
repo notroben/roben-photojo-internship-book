@@ -23,11 +23,9 @@
 
   set par(first-line-indent: 0pt)
   enum(
-    [Kedua orang tua penulis.],
-    [Bapak/Ibu #data.pembimbing-departemen.nama selaku dosen pembimbing departemen.],
-    [Bapak/Ibu #data.pembimbing-lapangan.nama selaku pembimbing lapangan selama
-     kerja praktik berlangsung.],
-    [Teman-teman penulis yang senantiasa memberikan semangat selama pelaksanaan KP.],
+    [Bapak #data.pembimbing-departemen.nama selaku dosen pembimbing departemen.],
+    [Bapak #data.pembimbing-lapangan.nama selaku pembimbing lapangan selama
+      kerja praktik berlangsung.],
   )
 
   v(0.8cm)

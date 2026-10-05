@@ -9,37 +9,37 @@ kode-mk: "EF234603"
 sks: 4
 
 # Judul laporan — tulis HURUF BESAR di awal kata, tanpa titik di akhir
-judul: "[JUDUL LAPORAN KERJA PRAKTIK]"
+judul: "Pengembangan Website dan Photo.Jo untuk Pemesanan, Penagihan, dan Pengelolaan Konten Layanan Photobooth"
 
 mahasiswa:
-  nama: "[Nama Mahasiswa]"
-  nrp: "[NRP Mahasiswa]"
+  nama: "Ahmad Muqorrobin"
+  nrp: "5025231254"
   # Dipakai di halaman BIODATA PENULIS
-  tempat-lahir: "[Kota]"
-  tanggal-lahir: "[Tanggal Lahir]"
-  jenis-kelamin: "[Laki-laki/Perempuan]"
-  telepon: "[Nomor Telepon]"
-  email: "[email@example.com]"
-  angkatan: "[Tahun Angkatan]"
-  semester: "[Semester saat Kerja Praktik]"
+  tempat-lahir: "Jember"
+  tanggal-lahir: "12 September 2004"
+  jenis-kelamin: "Laki-laki"
+  telepon: "081330610292"
+  email: "5025231254@student.its.ac.id"
+  angkatan: "2023"
+  semester: "7"
 
 pembimbing-departemen:
-  nama: "[Nama Pembimbing Departemen dan Gelar]"
+  nama: "Bintang Nuralamsyah S.Kom, M.Kom."
   nip: "[XXXXXXXXXXXXXXX]"
 
 pembimbing-lapangan:
-  nama: "[Nama Pembimbing Lapangan dan Gelar]"
+  nama: "Ahmad Maulana Fahril"
   nip: "[XXXXXXXXXXXXXXX]"
 
 # Tempat pelaksanaan KERJA PRAKTIK
 instansi:
-  nama: "[Nama Instansi/Perusahaan]"
-  alamat: "[Alamat Instansi/Perusahaan]"
+  nama: "PT Jokeen Solusi Teknologi"
+  alamat: "Jl. Bhaskara Sari no. 82"
 
 # Periode pelaksanaan — tampil: "Periode: <mulai> – <selesai>"
 periode:
-  mulai: "[Tanggal Mulai]"
-  selesai: "[Tanggal Selesai]"
+  mulai: "22 Juni 2026"
+  selesai: "30 September 2026"
 
 institusi:
   departemen: "Departemen Teknik Informatika"
@@ -48,7 +48,7 @@ institusi:
   kota: "Surabaya"
 
 # Tahun pada sampul
-tahun: "[Tahun]"
+tahun: "2026"
 
 # Tanggal penandatanganan (Lembar Pengesahan & Kata Pengantar)
-tanggal-laporan: "[Tanggal Bulan Tahun]"
+tanggal-laporan: "6 Oktober 2026"
