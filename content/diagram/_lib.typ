@@ -26,7 +26,7 @@
 })
 
 // Pembungkus gambar: ikut Daftar Gambar dan penomoran per bab milik template.
-#let gambar-diagram(body, caption: "") = figure(
+#let gambar-diagram(body, caption: "", placement: auto) = figure(
   muat({
     // Template memakai teks rata kiri-kanan; di dalam diagram itu merusak spasi kata.
     set par(justify: false, leading: 0.55em, spacing: 0pt)
@@ -37,6 +37,7 @@
   kind: image,
   supplement: [Gambar],
   caption: caption,
+  placement: placement,
 )
 
 // ---- Elemen ERD --------------------------------------------------------

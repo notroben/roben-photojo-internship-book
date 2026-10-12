@@ -14,9 +14,8 @@
     penulis dapat menyelesaikan Laporan Kerja Praktik yang berjudul:
     "#data.judul".
 
-    Penulis menyadari bahwa masih banyak kekurangan dalam pelaksanaan kerja praktik maupun
-    penyusunan laporan ini. Namun penulis berharap laporan ini dapat bermanfaat bagi
-    pembaca.
+    Penulis menyadari masih banyak kekurangan pada laporan ini dan berharap laporan ini
+    bermanfaat bagi pembaca.
 
     Penulis ingin menyampaikan rasa terima kasih kepada:
   ]
@@ -26,6 +25,7 @@
     [Bapak #data.pembimbing-departemen.nama selaku dosen pembimbing departemen.],
     [Bapak #data.pembimbing-lapangan.nama selaku pembimbing lapangan selama
       kerja praktik berlangsung.],
+    [Ayu Auliya Rahmah selaku pemilik Photo.Jo atas kesempatan dan peninjauan hasil.],
   )
 
   v(0.8cm)

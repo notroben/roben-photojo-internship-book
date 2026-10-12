@@ -7,13 +7,22 @@
 // ISI ABSTRAK — EDIT DI SINI
 // Ringkas: latar belakang, tujuan, metode, hasil, kesimpulan.
 #let isi-abstrak = [
-  [Isi abstrak laporan KP ditulis di sini. Abstrak berisi ringkasan singkat
-  tentang latar belakang, tujuan, metode, hasil, dan kesimpulan. Panjang sekitar
-  150–250 kata.]
+  Photo.Jo adalah merek di bawah PT Jokeen Solusi Teknologi di bidang fotografi dan _photobox_
+  yang informasi harga, ketersediaan tanggal, pemesanan, dan penagihannya hampir seluruhnya
+  ditangani staf secara manual melalui WhatsApp. Kerja praktik ini bertujuan membangun situs
+  web Photo.Jo yang informatif, interaktif, dan dapat dipakai pada ponsel, dilengkapi sistem
+  pemesanan dan penagihan yang menghitung harga di server, panel admin berbasis peran, serta
+  model 3D tiga unit _photobox_. Situs dibangun sebagai halaman statis dengan Supabase
+  (PostgreSQL) sebagai basis data, autentikasi, dan penyimpanan; hak akses ditegakkan oleh
+  _Row Level Security_ dan aturan bisnis dijalankan oleh fungsi pada basis data, sedangkan
+  model 3D dibuat di Blender. Pengujian tiga lapis menemukan lima temuan keamanan dan tiga
+  temuan fungsional yang seluruhnya diperbaiki sehingga keenam kriteria pengujian terpenuhi.
+  Hasilnya, pelanggan dapat melihat harga, memilih tanggal, dan menerima invoice bernomor
+  tanpa menunggu staf, dan staf dapat mengelola harga dan konten tanpa pengembang.
 ]
 
 // KATA KUNCI — EDIT DI SINI (3–5 kata, boleh pakai _miring_)
-#let kata-kunci = ([kata kunci 1], [kata kunci 2], [kata kunci 3])
+#let kata-kunci = ([Photo.Jo], [situs web], [Supabase], [Row Level Security], [model 3D])
 
 // ============================================================
 // Tata letak — tidak perlu diedit
